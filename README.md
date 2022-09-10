@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ishan-dangi
+- 👋 Hi, I’m Ishan Dangi
 - 👀 I’m interested in electronics
 - 🌱 I’m currently learning aurdino uno and python
 - 📫 How to reach me ishandangi972003@gmail.com
